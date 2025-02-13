@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.data
+aclImdb
+aclImdb_v1.tar.gz
