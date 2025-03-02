@@ -172,3 +172,4 @@ cython_debug/
 .data
 aclImdb
 aclImdb_v1.tar.gz
+.DS_Store
